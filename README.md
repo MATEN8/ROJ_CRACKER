@@ -40,17 +40,17 @@ $ pip install lolcat
 $ pip install rich
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/James404-cyber/PROHACK.git
-$ cd PROHACK
-$ python prohack.py
+$ git clone https://github.com/MATEN8/ROJ_CRACKER.git
+$ cd ROJ_CRACKER
+python run.py
 
 ```
 
 # Single Command 
 
 ```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/PROHACK.git ; cd PROHACK ; python2 hackpro.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/MATEN8/ROJ_CRACKER.git ; cd ROJ_CRACKER ; python run.py
 ```
-FREE API KEY : [Mnbvcxzlkjhgfdsa]</br>
+FREE API KEY :
  
- [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
+ [![Facebook](https://img.shields.io/badge/Facebook-ROJ-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
