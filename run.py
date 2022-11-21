@@ -1,1 +1,7 @@
-import os if name == "main": try: os.system("git pull") import("ROJ").menu() except Exception as e: exit(str(e))
+import os
+if __name__ == "__main__":
+   try:
+       os.system("git pull")
+       __import__("ROJ_CRACKER").menu()
+   except Exception as e:
+       exit(str(e))
